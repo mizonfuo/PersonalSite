@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+font-family: 'Oswald', sans-serif;
+}
+.top-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding: 100px;
+}
+hr {
+  border-style: dotted;
+  border-top:none;
+  width: 4%;
+  border-width: 10px;
+  color: #B4CDE6;
+  margin: 100px auto;
+}
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'EB Garamond', serif;
+  font-size: 6rem;
+  color: #EAF6F6;
+  line-height: 1;
+}
+h2 {
+  font-family: 'EB Garamond', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'EB Garamond', serif;
+  color: #11999E;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+.middle-container {
+  padding: 100px 0;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 400px;
+}
+.skillsimage {
+  width: 17%;
+  margin-right: 40px;
+}
+a {
+  color: #11999E;
+}
+p {
+  line-height: 2;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webdesignimage {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.buildingplansimage {
+  width: 25%;
+  text-align: right;
+  float: right;
+  margin-left: 30px;
+}
+.build {
+  text-align: right;
+}
+.myname {
+  font-family:'Qwigley', cursive;
+}
+.btn {
+  line-height: 5;
+  background: #00FFD1;
+  background-image: -webkit-linear-gradient(top, #00FFD1, #B6E388);
+  background-image: -moz-linear-gradient(top, #00FFD1, #B6E388);
+  background-image: -ms-linear-gradient(top, #00FFD1, #B6E388);
+  background-image: -o-linear-gradient(top, #00FFD1, #B6E388);
+  background-image: linear-gradient(to bottom, #00FFD1, #B6E388);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #2192FF;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #2192FF;
+  text-decoration: none;
+}
+.footer {
+  margin-bottom: 30px;
+}
+.footer-link {
+  text-decoration: none;
+  margin-left: 30px;
+  color: #11999E;
+}
+.footer-link:hover {
+  color: white;
+}
+.copyrights {
+  color: #EAF6F6;
+  line-height: 1;
+  font-size: 0.75rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+
+}
